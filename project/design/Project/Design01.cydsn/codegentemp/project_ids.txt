@@ -1,0 +1,6 @@
+C:\Users\terre\Documents\CSE 121 Stuff\Project Checkoff\tng305\project\design\Project\Design01.cydsn\Design01.cyprj|940fd464-6097-4b03-a109-e1d7e6e34dc4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|695917cb-b152-4677-abb1-af1b49e06c05
+C:\Users\terre\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|89b02fe6-f9d3-48be-9bed-3108d7c918fe
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|2d806b45-b41b-4468-a8b1-fbf2320d12e1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|1ed9266d-f3f8-4716-8f5e-d8b617604fd6
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|f8c00249-bcd5-414a-98d1-417fb9a70d40
